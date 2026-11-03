@@ -1,10 +1,10 @@
 ---
 layout: default
-title: FastIndex — get a live URL fetched by Google
+title: FastIndex — Google Indexing Tool
 description: FastIndex is the indexer for a public URL that is live and still waiting on Googlebot. A submit opens a batch. Google still decides what it keeps.
 ---
 
-# FastIndex — get a live URL fetched by Google
+# FastIndex — Google Indexing Tool
 
 <p class="meta">A short note on discovery, crawl, and index.</p>
 
