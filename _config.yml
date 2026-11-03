@@ -1,0 +1,6 @@
+title: FastIndex
+description: FastIndex is the indexer for a live URL that Google has not fetched yet.
+url: https://mrzerocrack.github.io
+baseurl: ""
+plugins:
+  - jekyll-seo-tag
